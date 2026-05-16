@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Blockhead.sln"
+    "dotnet.defaultSolution": "Blockhead2026.sln"
 }

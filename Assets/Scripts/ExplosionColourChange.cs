@@ -28,15 +28,21 @@ public class EmissionFlareAndColorFade : MonoBehaviour
         rend = GetComponent<Renderer>();
         propBlock = new MaterialPropertyBlock();
 
-        rend.GetPropertyBlock(propBlock);
-        currentColor = propBlock.GetColor(baseColorProperty);
-        if (currentColor == default)
+        rend.sharedMaterial.EnableKeyword("_EMISSION");
+
+        //rend.GetPropertyBlock(propBlock);
+        //currentColor = propBlock.GetColor(baseColorProperty);
+        if (rend.sharedMaterial.HasProperty(baseColorProperty))
+            currentColor = rend.sharedMaterial.GetColor(baseColorProperty);
+        //if (currentColor == default)
+        else
             currentColor = Color.white;
     }
 
     void Start()
     {
-        GetComponent<EmissionFlareAndColorFade>().TriggerEffect();
+        //GetComponent<EmissionFlareAndColorFade>().TriggerEffect();
+        TriggerEffect();
     }
 
     public void TriggerEffect()
@@ -57,6 +63,32 @@ public class EmissionFlareAndColorFade : MonoBehaviour
         yield return new WaitForSeconds(flareDuration);
 
         // ⬛ Turn emission off
+        // propBlock.SetColor(emissionProperty, Color.black);
+        // rend.SetPropertyBlock(propBlock);
+
+        // yield return new WaitForSeconds(holdDuration);
+
+        float fadeTime = 0f;
+        Color startEmission = flareEmissionColor * flareIntensity;
+
+        while (fadeTime < fadeDuration)
+        {
+            fadeTime += Time.deltaTime;
+            float t = fadeTime / flareDuration;
+
+            Color emission = Color.Lerp(startEmission, Color.black, t);
+
+            propBlock.SetColor(emissionProperty, emission);
+            rend.SetPropertyBlock(propBlock);
+
+            yield return null;
+
+            // propBlock.SetColor(emissionProperty, Color.black);
+            // rend.SetPropertyBlock(propBlock);
+
+            // yield return new WaitForSeconds(holdDuration);
+        }
+
         propBlock.SetColor(emissionProperty, Color.black);
         rend.SetPropertyBlock(propBlock);
 
@@ -70,19 +102,34 @@ public class EmissionFlareAndColorFade : MonoBehaviour
         float time = 0f;
         Color startColor = currentColor;
 
+        // float fadeTime = 0f;
+        // Color startEmission = flareEmissionColor * flareIntensity;
+
+
         while (time < fadeDuration)
         {
+            // fadeTime += Time.deltaTime;
+            // float t = fadeTime / flareDuration;
+
+            // Color emission = Color.Lerp(startEmission, Color.black, t);
+
+            // propBlock.SetColor(emissionProperty, emission);
+            // rend.SetPropertyBlock(propBlock);
+
+            // yield return null;
+
             time += Time.deltaTime;
             float t = time / fadeDuration;
 
             currentColor = Color.Lerp(startColor, targetColor, t);
 
-            rend.GetPropertyBlock(propBlock);
+            //rend.GetPropertyBlock(propBlock);
             propBlock.SetColor(baseColorProperty, currentColor);
             rend.SetPropertyBlock(propBlock);
 
             yield return null;
         }
+
 
         currentColor = targetColor;
     }

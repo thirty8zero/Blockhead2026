@@ -722,6 +722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 3800799237354452004}
+  onOff: 1
 --- !u!1 &4603814291083142018
 GameObject:
   m_ObjectHideFlags: 0

@@ -642,18 +642,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252081919131352211 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1985134120839920, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -672,18 +672,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252093791148421873 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1987970228184210, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -702,18 +702,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252285314392667395 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1766352080200544, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -732,18 +732,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252296685445757807 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1769751961234700, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -762,18 +762,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252299364872209869 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1771330516947886, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -792,18 +792,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252300296710721275 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1782149637658776, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -822,18 +822,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252305480507453301 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1778547004946710, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -852,18 +852,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252350759057070979 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1823842331807200, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -882,18 +882,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252376178912565273 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1708473442586234, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -912,18 +912,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252381908671751131 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1721915875571128, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -942,18 +942,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252382018805050579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1722284644498096, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -972,18 +972,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252385415670564701 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1716617955594558, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1002,18 +1002,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252406910245398987 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1748035230121896, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1032,18 +1032,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252410361452337491 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1741840075935536, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1062,18 +1062,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252419816727685847 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1752171103091892, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1092,18 +1092,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252431696966546737 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1903637126751058, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1122,18 +1122,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252449158842496319 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1921365994300252, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1152,18 +1152,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252454345267545879 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1926552518971764, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1182,18 +1182,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252488952648422061 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1962311202637006, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1212,18 +1212,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252543290984014095 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1875610230028140, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1242,18 +1242,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252557361371396089 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1898785794843034, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1272,18 +1272,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252559062733608285 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1899354394133310, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1302,18 +1302,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252560938985525837 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1892459468211246, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1332,18 +1332,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252568616584715331 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1477890022328864, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1362,18 +1362,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252578925960769535 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1487925427698076, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1392,18 +1392,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252583220678096129 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1501291552973666, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1422,18 +1422,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252599478672830059 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1517540555356168, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1452,18 +1452,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252677713239171579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1445967013525400, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1482,18 +1482,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252682448899085199 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1452093871670764, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1512,18 +1512,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252693473402268317 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1463126160473342, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1542,18 +1542,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252695835985630991 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1474028045926764, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1572,18 +1572,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252735025552294427 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1653087783998584, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1602,18 +1602,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252744821197128223 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1654078345286780, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1632,18 +1632,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252757046529439177 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1666044957090730, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1662,18 +1662,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252778819605308893 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1555902388564926, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1692,13 +1692,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
@@ -1722,18 +1722,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252786927697159735 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1565384872144980, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1752,18 +1752,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252800359488695655 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1570022012484356, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1782,18 +1782,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252837416334107695 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1614465933013580, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1812,18 +1812,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252866461042226079 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1222449244268028, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1842,18 +1842,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252875691651038541 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1230811345791790, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1872,18 +1872,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252919113369241485 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1134613073367534, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1902,18 +1902,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252942916208200437 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1157057914297494, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1932,18 +1932,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252947143479047785 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1152764070682634, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1962,18 +1962,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252953726917724289 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1168100535246562, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -1992,18 +1992,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252960635444579671 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1176099830700852, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2022,18 +2022,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252961127366432693 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1175545158386134, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2052,18 +2052,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1252995141188135759 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1351119843818796, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2082,18 +2082,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253020087747858259 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1367271284545840, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2112,18 +2112,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253036571215240309 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1383977114028566, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2142,18 +2142,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253043584507621043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1389951865419984, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2172,18 +2172,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253081162583616725 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1286473955310262, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2202,18 +2202,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253103431371284023 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1317529807784020, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2232,18 +2232,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253106076505606607 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1312754364964780, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2262,18 +2262,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253113689533281445 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1320400895517382, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2292,18 +2292,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253316543985893399 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1099952113555060, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2322,18 +2322,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253349604757047103 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1001054325068124, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2352,18 +2352,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253362891945192389 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1005296966532518, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2382,18 +2382,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253385752305501063 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1036926860482020, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2412,18 +2412,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253391475460934669 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1042615504198254, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2442,18 +2442,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253392025777678867 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1044326420380784, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2472,18 +2472,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
 --- !u!1 &1253405842449215415 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1048238896216532, guid: 2913b9eaaf9137242894ef63fd14a27e,
@@ -2502,15 +2502,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39bfa90a50170434da5a624f0ef4a828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseColorProperty: _Color
+  baseColorProperty: _BaseColor
   emissionProperty: _EmissionColor
-  flareEmissionColor: {r: 1, g: 0.97981787, b: 0, a: 1}
+  flareEmissionColor: {r: 1, g: 1, b: 1, a: 1}
   flareIntensity: 5
-  flareDuration: 0.05
-  holdDuration: 0.5
-  fadeDuration: 1
+  flareDuration: 0.06
+  holdDuration: 0.1
+  fadeDuration: 0.1
   possibleColors:
   - {r: 0, g: 0, b: 0, a: 0}
   - {r: 0.33962262, g: 0.28034887, b: 0.28034887, a: 0}
   - {r: 0.6509434, g: 0.61102706, b: 0.61102706, a: 0}
-  - {r: 0.8584906, g: 0.8382432, b: 0.8382432, a: 0}
+  - {r: 0.43137255, g: 0.4509804, b: 0.4862745, a: 0}
