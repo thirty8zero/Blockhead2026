@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NewTemplate.unity
     guid: a672efe29be016c4bad46c132a535cdc
+  - enabled: 1
+    path: Assets/Level_4A_PrefabTest.unity
+    guid: 1f96e019fa91f8349bc54a01a4f17d76
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

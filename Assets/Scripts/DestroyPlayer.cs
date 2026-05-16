@@ -66,6 +66,7 @@ public class DestroyPlayer : MonoBehaviour
                 Object.Destroy(player);
                 Invoke("SlowTime", 0.08f);
                 Invoke("SpeedTime", 0.14f);
+                Debug.Log("Scheduling reload");
                 Invoke("LoadLevel", 3f);
 
                 if (levelTimer != null)
@@ -91,47 +92,55 @@ public class DestroyPlayer : MonoBehaviour
 
     {
 
-        if (currentScene == "TheTester")
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
-        {
-            SceneManager.LoadScene("TheTester");
-        }
+        // if (currentScene == "TheTester")
 
-        if (currentScene == "LevelTemplate")
+        // {
+        //     SceneManager.LoadScene("TheTester");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelTemplate");
-        }
+        // if (currentScene == "LevelTemplate")
 
-        if (currentScene == "LevelTutorial")
+        // {
+        //     SceneManager.LoadScene("LevelTemplate");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelTutorial");
-        }
+        // if (currentScene == "LevelTutorial")
 
-        if (currentScene == "LevelOne")
+        // {
+        //     SceneManager.LoadScene("LevelTutorial");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelOne");
-        }
+        // if (currentScene == "LevelOne")
 
-        if (currentScene == "NewTemplate")
+        // {
+        //     SceneManager.LoadScene("LevelOne");
+        // }
 
-        {
-            SceneManager.LoadScene("NewTemplate");
-        }
+        // if (currentScene == "NewTemplate")
 
-        if (currentScene == "LevelTwo")
+        // {
+        //     SceneManager.LoadScene("NewTemplate");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelTwo");
-        }
+        // if (currentScene == "LevelTwo")
 
-        if (currentScene == "Level_4A")
+        // {
+        //     SceneManager.LoadScene("LevelTwo");
+        // }
 
-        {
-            SceneManager.LoadScene("Level_4A");
-        }
+        // if (currentScene == "Level_4A")
+
+        // {
+        //     SceneManager.LoadScene("Level_4A");
+        // }
+
+        // if (currentScene == "Level_4A_PrefabTest")
+
+        // {
+        //     SceneManager.LoadScene("Level_4A_PrefabTest");
+        // }
 
         //if (currentScene == "LevelOneReload")
 

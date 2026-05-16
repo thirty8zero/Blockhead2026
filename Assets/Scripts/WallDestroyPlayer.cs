@@ -59,41 +59,43 @@ public class WallDestroyPlayer : MonoBehaviour
 
     {
 
-        if (currentScene == "LevelTemplate")
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
-        {
-            SceneManager.LoadScene("LevelTemplate");
-        }
+        // if (currentScene == "LevelTemplate")
 
-        if (currentScene == "LevelTutorial")
+        // {
+        //     SceneManager.LoadScene("LevelTemplate");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelTutorial");
-        }
+        // if (currentScene == "LevelTutorial")
 
-        if (currentScene == "NewTemplate")
+        // {
+        //     SceneManager.LoadScene("LevelTutorial");
+        // }
 
-        {
-            SceneManager.LoadScene("NewTemplate");
-        }
+        // if (currentScene == "NewTemplate")
 
-        if (currentScene == "LevelOne")
+        // {
+        //     SceneManager.LoadScene("NewTemplate");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelOne");
-        }
+        // if (currentScene == "LevelOne")
 
-        if (currentScene == "LevelTwo")
+        // {
+        //     SceneManager.LoadScene("LevelOne");
+        // }
 
-        {
-            SceneManager.LoadScene("LevelTwo");
-        }
+        // if (currentScene == "LevelTwo")
 
-        if (currentScene == "Level_4A")
+        // {
+        //     SceneManager.LoadScene("LevelTwo");
+        // }
 
-        {
-            SceneManager.LoadScene("Level_4A");
-        }
+        // if (currentScene == "Level_4A")
+
+        // {
+        //     SceneManager.LoadScene("Level_4A");
+        // }
     }
 }
 
