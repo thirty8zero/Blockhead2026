@@ -12,6 +12,9 @@ public class EndLevel : MonoBehaviour
     public GameObject player;
     public GameObject bgMusic;
     public GameObject colliderBlock;
+    //public GameObject endModel;
+
+    [SerializeField] private BoxCollider playerBoxCollider;
 
     string currentScene;
     private LevelTimer levelTimer;
@@ -31,11 +34,16 @@ public class EndLevel : MonoBehaviour
 
     }
 
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
 
     {
 
-        if (GameObject.FindWithTag("Player") && hasKey == true)
+        if (other != playerBoxCollider)
+            return;
+
+        if (!hasKey)
+            return;
+        //if (GameObject.FindWithTag("Player") && hasKey == true)
 
         {
             if (levelTimer != null)
@@ -105,4 +113,10 @@ public class EndLevel : MonoBehaviour
     {
         bgMusic.GetComponent<Animator>().enabled = true;
     }
+
+    // void EndModel()
+
+    // {
+    //     endModel.gameObject.SetActive(true);
+    // }
 }
